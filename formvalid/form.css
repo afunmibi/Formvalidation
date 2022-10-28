@@ -1,0 +1,18 @@
+fieldset{
+    background-color: lightseagreen;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 20px;
+}
+body{
+    justify-content: center;
+    align-items: center;
+}
+legend{
+    margin-bottom: 10px;
+}
+input{
+    margin-bottom: 10px;
+}
